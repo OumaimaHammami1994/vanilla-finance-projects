@@ -1,4 +1,4 @@
-"# Autocall Pricing Project
+# Autocall Pricing Project
 
 This project implements a Monte Carlo-based pricer for autocallable structured products, featuring a Streamlit web interface for interactive pricing with real market data.
 
